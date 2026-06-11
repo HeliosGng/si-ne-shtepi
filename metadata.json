@@ -1,0 +1,6 @@
+{
+  "name": "Si në Shtëpi - Restaurant",
+  "description": "Premium multi-language (Albanian/English) website for 'Si në Shtëpi' in Kashar, Albania. Experience traditional home-cooked delicacies, browse our full live-calculated menu, book reservations, and order on-demand delivery via WhatsApp with automated GPS tracking.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

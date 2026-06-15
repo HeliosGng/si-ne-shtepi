@@ -83,7 +83,9 @@ export const TRANSLATIONS = {
       shoqeruese: 'Shoqëruese & Kos',
       sallata: 'Sallata',
       tava_tradicionale: 'Tava Tradicionale',
-      zgare: 'Zgare / Skarë'
+      zgare: 'Zgare / Skarë',
+      embelsira: 'Ëmbëlsira',
+      specialitete: 'Specialitete'
     },
     reviewsHeader: 'Çfarë thonë klientët tanë',
     basedOn: 'Bazuar në 32 vlerësime reale në Google Maps',
@@ -169,7 +171,9 @@ export const TRANSLATIONS = {
       shoqeruese: 'Sides & Yogurt',
       sallata: 'Salads',
       tava_tradicionale: 'Traditional Bakes',
-      zgare: 'Flame Grill'
+      zgare: 'Flame Grill',
+      embelsira: 'Desserts',
+      specialitete: 'House Specials'
     },
     reviewsHeader: 'What our clients say',
     basedOn: 'Based on 32 authentic Google/Local reviews',

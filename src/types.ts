@@ -27,7 +27,9 @@ export type MenuCategory =
   | 'shoqeruese'
   | 'sallata'
   | 'tava_tradicionale'
-  | 'zgare';
+  | 'zgare'
+  | 'embelsira'
+  | 'specialitete';
 
 export interface CartItem {
   menuItem: MenuItem;

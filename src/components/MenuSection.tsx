@@ -25,6 +25,7 @@ export default function MenuSection({ lang, onAddToCart }: MenuSectionProps) {
 
   const categoriesList: { value: MenuCategory | 'all'; label: string }[] = [
     { value: 'all', label: t.allCategories },
+    { value: 'embelsira', label: t.categories.embelsira },
     { value: 'mengjesi', label: t.categories.mengjesi },
     { value: 'mengjesi_anglez', label: t.categories.mengjesi_anglez },
     { value: 'tava_familjare', label: t.categories.tava_familjare },
@@ -35,6 +36,7 @@ export default function MenuSection({ lang, onAddToCart }: MenuSectionProps) {
     { value: 'sallata', label: t.categories.sallata },
     { value: 'tava_tradicionale', label: t.categories.tava_tradicionale },
     { value: 'zgare', label: t.categories.zgare },
+    { value: 'specialitete', label: t.categories.specialitete },
   ];
 
   const filteredItems = selectedCategory === 'all'
